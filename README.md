@@ -1,3 +1,3 @@
-# go-hello-world
+# Desafio Go
 
-### Imagem docker: https://hub.docker.com/r/brito/codeeducation
+### Link da imagem docker: https://hub.docker.com/r/brito/codeeducation
